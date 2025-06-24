@@ -2,7 +2,7 @@
 
 > **LLM 프롬프트 엔지니어링과 백엔드 개발을 통한 창의적 문제 해결 능력을 보유한 풀스택 개발자**
 
-📧 febrie@naver.com | 📱 +82 010-7527-8854 | 🔗 [GitHub](https://github.com/Febriez?tab=repositories)
+📧 febrie@naver.com | 📱 +82 세부 연락처는 E-Mail 로 요청 바랍니다 | 🔗 [GitHub](https://github.com/Febriez?tab=repositories)
 
 ## 💡 핵심 역량
 
