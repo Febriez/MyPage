@@ -5,7 +5,7 @@
 ---
 
 ## 지원 직무  
-**Junior Backend Engineer @ Generative AI Platform**
+**Backend Engineer**
 
 ---
 
@@ -15,7 +15,7 @@
 - Java 기반 서버 설계 및 개발
 - REST API 및 DTO 구조 설계, 환경 변수 기반 보안 처리
 - CompletableFuture 기반 비동기 처리 및 병렬 API 통신
-- Paper 1.21.5 기반 마인크래프트 RPG 플러그인 개발
+- Paper API 기반 마인크래프트 RPG 플러그인 개발
 - Firebase 기반 백엔드 구축 및 실시간 데이터 처리 경험
 
 ### AI Integration & Optimization
@@ -35,9 +35,9 @@
 
 ## Experiences
 
-### ERoom / 개인 프로젝트 (2024.04 ~ 2024.07)  
-**역할**: Backend & AI Engineer (전체 시스템 설계 및 개발 총괄)  
-**설명**: AI 방탈출 게임 플랫폼 ‘EROOM’ 서버, AI 연동, 웹사이트 단독 개발
+### ERoom / 개인 프로젝트 (2025.06 ~ 2025.07)  
+역할: Backend & AI Engineer (전체 시스템 설계 및 개발 총괄)  
+설명: AI 방탈출 게임 플랫폼 ‘EROOM’ 서버, AI 연동, 웹사이트 단독 개발
 
 #### 1. LLM API 최적화 및 성능 개선
 - 시나리오 프롬프트 토큰 95% 절감 (5000 → 250)
@@ -65,7 +65,8 @@
 ---
 
 ## Education  
-비공개
 
-## ETC  
-비공개
+- **하이미디어아카데미(강남)**  
+  심화_생성형 AI활용 인재양성과정 (조별멘토)  
+  *2025.05.07 ~ 2025.07.07*
+
