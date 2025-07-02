@@ -1,12 +1,6 @@
 # 옥병준 | Backend Engineer
-**Phone**: +82 010-7527-8854  
 **Email**: febrie@naver.com  
 **GitHub**: [https://github.com/Febriez](https://github.com/Febriez)
-
----
-
-## 지원 직무  
-**Backend Engineer**
 
 ---
 
